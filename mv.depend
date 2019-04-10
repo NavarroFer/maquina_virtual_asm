@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1554697378 source:e:\programming stuff\maquina de armado\mv 3-4-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1553561370 e:\programming stuff\maquina de armado\mv 3-4-19\apodos.h
+
+1554697356 e:\programming stuff\maquina de armado\mv 3-4-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1554323514 e:\programming stuff\maquina de armado\mv 3-4-19\instrucciones.h
+
+1554702653 source:e:\programming stuff\maquina de armado\mv 3-4-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1553817127 source:e:\programming stuff\maquina de armado\mv 3-4-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1554703091 source:e:\programming stuff\maquina de armado\mv 3-4-19\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1554694840 source:e:\programming stuff\maquina de armado\mv 3-4-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1554920751 source:e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1553561370 e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\apodos.h
+
+1554920758 e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\funciones.h
+	<string.h>
+	<stdio.h>
+
+1554323514 e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\instrucciones.h
+
+1554919825 source:e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1554920770 source:e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1553817127 source:e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1554920642 source:e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
